@@ -1,1 +1,1 @@
-# CodeAlpha_DataAnalytics
+Classifies text sentiment as Positive, Negative, or Neutral. 
